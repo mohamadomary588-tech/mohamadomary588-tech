@@ -14,7 +14,7 @@ I am a dedicated **Frontend Software Engineer** with **2 years of hands-on exper
 ### 🎓 Academic & Professional Growth
 I balance rigorous academic engineering principles with cutting-edge industry standards:
 - **Syrian Virtual University (SVU):** B.Sc. in **Information Technology Engineering** (First Year).
-- **Claude Academy:** Professional Specialization in **Modern Web Technologies**.
+- **Claude Academy:** Professional Specialization in **Modern Web Technologies(in Progress)**.
 
 ---
 
@@ -44,11 +44,30 @@ As a performance-oriented developer, my local environment is built for speed and
 ### 📊 Engineering Insights
 ### 🛠️ Engineering Stack & Insights
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS ES6+" />
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Your_Username]&show_icons=true&theme=vision-glow&include_all_commits=true&count_private=true&hide_border=true&title_color=38b2ac&icon_color=38b2ac&text_color=ffffff&bg_color=000000" />
