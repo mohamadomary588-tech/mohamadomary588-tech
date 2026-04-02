@@ -45,8 +45,8 @@ As a performance-oriented developer, my local environment is built for speed and
 
 ### 📊 Engineering Insights
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Your_GitHub_Username]&show_icons=true&theme=vision-glow&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your_GitHub_Username]&layout=compact&theme=vision-glow&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamadomary588-tech&show_icons=true&theme=vision-glow&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadomary588-tech&layout=compact&theme=vision-glow&langs_count=8" />
 </p>
 
 ---
@@ -64,5 +64,5 @@ As a performance-oriented developer, my local environment is built for speed and
 - 🌐 **Live Portfolio:** [Insert Link]
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[Your_GitHub_Username]&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=mohamadomary588-tech&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
