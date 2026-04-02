@@ -31,12 +31,12 @@ I balance rigorous academic engineering principles with cutting-edge industry st
 
 ---
 
-### 💻 Development Environment (The Rig)
+### 💻 Development Environment (The Rog)
 As a performance-oriented developer, my local environment is built for speed and heavy-duty compilation:
 - **Machine:** ASUS ROG Strix G15 (2023 Edition)
 - **CPU:** AMD Ryzen 7 6800H (8 Cores/16 Threads)
 - **GPU:** NVIDIA GeForce RTX 3060 (6GB GDDR6)
-- **RAM:** 8GB DDR5 | **Storage:** 512GB NVMe SSD
+- **RAM:** 16GB DDR5 | **Storage:** 512GB NVMe SSD
 - **OS:** Optimized for Low Latency and Maximum Throughput.
 
 ---
