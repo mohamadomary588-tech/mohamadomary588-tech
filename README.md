@@ -1,8 +1,6 @@
-# 👋 Hello World! I'm [Mohammed Omary]
+# 👋 Hello World! I'm Mohammed Omary
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Frontend%20Software%20Engineer&fontSize=70" />
-</p>
+![My Header](https://capsule-render.vercel.app/api?type=wave&color=000000&height=250&section=header&text=Mohammed%20%7C%20Frontend%20Engineer&fontSize=55&animation=fadeIn&fontColor=38b2ac&fontAlignY=40)
 
 ### 🚀 Professional Philosophy
 I am a dedicated **Frontend Software Engineer** with **2 years of hands-on experience** in architecting high-performance, scalable, and visually immersive web applications. My core expertise is built around the **React/Next.js ecosystem**, where I transform complex UI/UX wireframes into pixel-perfect, production-ready reality with a focus on clean, maintainable code.
@@ -44,9 +42,17 @@ As a performance-oriented developer, my local environment is built for speed and
 ---
 
 ### 📊 Engineering Insights
+### 🛠️ Engineering Stack & Insights
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamadomary588-tech&show_icons=true&theme=vision-glow&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadomary588-tech&layout=compact&theme=vision-glow&langs_count=8" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Your_Username]&show_icons=true&theme=vision-glow&include_all_commits=true&count_private=true&hide_border=true&title_color=38b2ac&icon_color=38b2ac&text_color=ffffff&bg_color=000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your_Username]&layout=compact&theme=vision-glow&langs_count=8&hide_border=true&title_color=38b2ac&text_color=ffffff&bg_color=000000" />
 </p>
 
 ---
@@ -59,9 +65,9 @@ As a performance-oriented developer, my local environment is built for speed and
 ---
 
 ### 📫 Connect for Collaboration
-- 📱 **Direct Business WhatsApp:** [Insert Link]
-- 💼 **LinkedIn Professional:** [Insert Link]
-- 🌐 **Live Portfolio:** [Insert Link]
+- 📱 **Direct Business WhatsApp:** [https://wa.me/963930159729?text=Hello%20Mohammed,%20I%20saw%20your%20GitHub%20portfolio%20and%20I'm%20interested%20in%20your%20services.]
+- 💼 **LinkedIn Professional:** [https://www.linkedin.com/in/mohamad-omary-9011b33a8?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+- 🌐 **Live Portfolio:** Soon!
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohamadomary588-tech&label=Profile%20Views&color=0e75b6&style=flat" />
