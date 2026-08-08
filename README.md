@@ -26,7 +26,6 @@ I balance rigorous academic engineering principles with cutting-edge industry st
 | **Frameworks** | `Next.js (App Router)`, `React.js`, `Bootstrap` |
 | **Styling & UI** | `Tailwind CSS`, `SASS/SCSS`, `Responsive Design` |
 | **State & Logic** | `React Hooks (useState, useEffect, useMemo, useContext)` |
-| **Backend & DB** | `MongoDB (NoSQL)` |
 | **DevOps & Tools** | `Git`, `GitHub`, `Vercel`, `VS Code` |
 
 ---
@@ -55,7 +54,6 @@ As a performance-oriented developer, my local environment is built for speed and
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 <p align="center">
