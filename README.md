@@ -68,8 +68,8 @@ As a performance-oriented developer, my local environment is built for speed and
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Your_Username]&show_icons=true&theme=vision-glow&include_all_commits=true&count_private=true&hide_border=true&title_color=38b2ac&icon_color=38b2ac&text_color=ffffff&bg_color=000000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your_Username]&layout=compact&theme=vision-glow&langs_count=8&hide_border=true&title_color=38b2ac&text_color=ffffff&bg_color=000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamadomary588-5681&show_icons=true&theme=vision-glow&include_all_commits=true&count_private=true&hide_border=true&title_color=38b2ac&icon_color=38b2ac&text_color=ffffff&bg_color=000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadomary588-tech&layout=compact&theme=vision-glow&langs_count=8&hide_border=true&title_color=38b2ac&text_color=ffffff&bg_color=000000" />
 </p>
 
 ---
