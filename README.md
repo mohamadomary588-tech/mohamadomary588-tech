@@ -14,7 +14,8 @@ I am a dedicated **Frontend Software Engineer** with **2 years of hands-on exper
 ### 🎓 Academic & Professional Growth
 I balance rigorous academic engineering principles with cutting-edge industry standards:
 - **Syrian Virtual University (SVU):** B.Sc. in **Information Technology Engineering** (First Year).
-- **Claude Academy:** Professional Specialization in **Modern Web Technologies(in Progress)**.
+- **ClaudeSoft Academy:** Professional Specialization in **Modern Web Technologies(in Progress)**.
+- **In Progress(Studying):** Typescript, Next.js(Framework), CI/CD, Strapi.js, Backend & Database Languages And Frameworks (Laravel,SQL,MongoDB...)
 
 ---
 
