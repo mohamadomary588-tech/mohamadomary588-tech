@@ -3,11 +3,11 @@
 ![My Header](https://capsule-render.vercel.app/api?type=wave&color=000000&height=250&section=header&text=Mohammed%20%7C%20Frontend%20Engineer&fontSize=55&animation=fadeIn&fontColor=38b2ac&fontAlignY=40)
 
 ### 🚀 Professional Philosophy
-I am a dedicated **Frontend Software Engineer** with **2 years of hands-on experience** in architecting high-performance, scalable, and visually immersive web applications. My core expertise is built around the **React/Next.js ecosystem**, where I transform complex UI/UX wireframes into pixel-perfect, production-ready reality with a focus on clean, maintainable code.
+I am a dedicated **Frontend Software Engineer** with **2 years of hands-on experience** in architecting high-performance, scalable, and visually immersive web applications. My core expertise is built around the **React.js ecosystem**, where I transform complex UI/UX wireframes into pixel-perfect, production-ready reality with a focus on clean, maintainable code.
 
 - ⚙️ **Performance First:** Expert in optimizing Core Web Vitals and SEO.
 - 🎨 **Modern Aesthetics:** Leveraging Tailwind CSS and SASS for sophisticated, responsive interfaces.
-- ⚡ **Scalable Architecture:** Proficient in Next.js App Router and React Hooks for robust state management.
+- ⚡ **Scalable Architecture:** Proficient in React Hooks for robust state management.
 
 ---
 
@@ -23,7 +23,7 @@ I balance rigorous academic engineering principles with cutting-edge industry st
 | Category | Tech Stack |
 | :--- | :--- |
 | **Core Languages** | `JavaScript (ES6+)`, `HTML5`, `CSS3` |
-| **Frameworks** | `Next.js (App Router)`, `React.js`, `Bootstrap` |
+| **Frameworks** | `React.js`, `Bootstrap` |
 | **Styling & UI** | `Tailwind CSS`, `SASS/SCSS`, `Responsive Design` |
 | **State & Logic** | `React Hooks (useState, useEffect, useMemo, useContext)` |
 | **DevOps & Tools** | `Git`, `GitHub`, `Vercel`, `VS Code` |
@@ -70,9 +70,9 @@ As a performance-oriented developer, my local environment is built for speed and
 
 ---
 
-### 🌟 Featured Architecture
-1. **Middle Mart**: A sophisticated E-commerce ecosystem engineered for high-end fashion.
-2. **IT Academy**: A massive educational platform featuring advanced styling architecture and adaptive themes.
+### 🌟 Featured Architecture (Coming Soon):
+1. **Fashion Store**: A sophisticated E-commerce ecosystem engineered for high-end fashion.
+2. **Book Store**: A massive library platform featuring advanced styling architecture and adaptive themes.
 3. **Renewable Energy Hub**: A high-impact, interactive landing page showcasing modern sustainable solutions.
 
 ---
