@@ -93,7 +93,7 @@ As a performance-oriented developer, my local environment is built for speed and
 
 ### 📫 Connect for Collaboration
 - 📱 **Direct Business WhatsApp:** [https://wa.me/963930159729?text=Hello%20Mohammed,%20I%20saw%20your%20GitHub%20portfolio%20and%20I'm%20interested%20in%20your%20services.]
-- 💼 **LinkedIn Professional:** [https://www.linkedin.com/in/mohamad-omary-9011b33a8?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+- 💼 **LinkedIn Professional:** [www.linkedin.com/in/mohammad-omary-9011b33a8]
 - 🌐 **Live Portfolio:** [https://portfolio-rust-psi-96.vercel.app/]
 
 <p align="center">
