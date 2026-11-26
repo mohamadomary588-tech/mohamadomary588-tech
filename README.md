@@ -5,7 +5,7 @@
 ### 🚀 Professional Philosophy
 I am a dedicated **Frontend Software Engineer** with **2 years of hands-on experience** in architecting high-performance, scalable, and visually immersive web applications. My core expertise is built around the **React.js ecosystem**, where I transform complex UI/UX wireframes into pixel-perfect, production-ready reality with a focus on clean, maintainable code.
 
-- ⚙️ **Performance First:** Expert in optimizing Core Web Vitals and SEO.
+- ⚙️ **Performance Core:** Expert in optimizing Core Web Vitals and SEO.
 - 🎨 **Modern Aesthetics:** Leveraging Tailwind CSS and SASS for sophisticated, responsive interfaces.
 - ⚡ **Scalable Architecture:** Proficient in React Hooks for robust state management.
 
@@ -13,21 +13,35 @@ I am a dedicated **Frontend Software Engineer** with **2 years of hands-on exper
 
 ### 🎓 Academic & Professional Growth
 I balance rigorous academic engineering principles with cutting-edge industry standards:
-- **Syrian Virtual University (SVU):** B.Sc. in **Information Technology Engineering** (First Year).
+- **Syrian Virtual University (SVU):** B.Sc. in **Information Technology Engineering** (Third Year).
 - **ClaudeSoft Academy:** Professional Specialization in **Modern Web Technologies(in Progress)**.
-- **In Progress(Studying):** Typescript, Next.js(Framework), CI/CD, Strapi.js, Backend & Database Languages And Frameworks (Laravel,SQL,MongoDB...)
+- **In Progress(Studying):** TypeScript, Next.js(Framework), CI/CD, Strapi.js, Backend & Database Languages and Frameworks (Laravel,SQL,MongoDB...)
 
 ---
 
 ### 🛠️ Technical Arsenal
 
-| Category | Tech Stack |
+I architect scalable, maintainable frontend systems using a strict **layered separation of concerns** (`UI`, `Routing`, `State/Brain`, and `Tools/Services`)—ensuring clean codebases, predictable state, and high-performance user experiences.
+
+| Domain | Core Technologies & Tools |
 | :--- | :--- |
-| **Core Languages** | `JavaScript (ES6+)`, `HTML5`, `CSS3` |
-| **Frameworks** | `React.js`, `Bootstrap` |
-| **Styling & UI** | `Tailwind CSS`, `SASS/SCSS`, `Responsive Design` |
-| **State & Logic** | `React Hooks (useState, useEffect, useMemo, useContext)` |
-| **DevOps & Tools** | `Git`, `GitHub`, `Vercel`, `VS Code` |
+| **Core Languages** | `JavaScript (ES6+)` · `HTML5` · `CSS3` |
+| **Frontend & Routing** | `React.js` · `React Router` · `Bootstrap` |
+| **Styling, UI & Motion** | `Tailwind CSS` · `SASS/SCSS` · `Framer Motion` · `Lucide React` |
+| **State & Architecture** | `Redux Toolkit` · `React Hooks` · `Context API` · `Modular Layered Architecture` |
+| **Data, APIs & Storage** | `RESTful APIs` · `Axios` · `JSON Schemas` · `localStorage Hydration` |
+| **Build, Git & DevOps** | `Vite` · `Git` · `GitHub (PRs, Branching, Dependabot)` · `Vercel` · `VS Code` |
+
+#### Architectural & Engineering Capabilities
+
+- 🏗️ **Scalable Frontend Architecture (`React.js` & `Vite`):** Designing modular, component-driven applications organized into isolated layers (`ui/`, `routing/`, `brain/`, `tools/`), eliminating tightly coupled spaghetti code and accelerating feature delivery.
+- 🧠 **Predictable Global State Management (`Redux Toolkit` & `Context API`):** Engineering normalized Redux slices (`createSlice`), asynchronous data pipelines (`createAsyncThunk`), and memoized fine-grained selectors (`useSelector`) to prevent unnecessary re-renders across complex e-commerce workflows (shopping carts, wishlists, authentication, and multi-department catalogs).
+- ⚡ **Advanced React Hooks & Pure Domain Logic:** Mastering `useState`, `useEffect`, `useMemo`, `useRef`, `useCallback`, and `useContext` alongside pure, framework-agnostic JavaScript calculation and validation modules (floating-point-safe pricing engines, composite variant keys, promo/shipping rules, and form validators).
+- 🧭 **Client-Side Routing & Navigation Systems (`React Router`):** Implementing dynamic parameterized routes (`/product/:id`, `/shop/:department/:category`), protected route guards, route state forwarding, lazy-loaded `Suspense` boundaries, and deep-linked navigation sync.
+- 🎨 **Responsive Editorial UI & Design Systems (`Tailwind CSS`, `SASS/SCSS`, `Bootstrap`):** Translating luxury editorial aesthetics into mobile-first, 12-column responsive grids, reusable component variants, accessible ARIA controls (`radiogroup`, `aria-live`, keyboard traps), and semantic HTML5/CSS3 layouts.
+- 🎬 **Hardware-Accelerated Motion Engineering (`Framer Motion`):** Crafting fluid micro-interactions, layout transitions (`layoutId`), exit animations (`AnimatePresence`), and `60fps` GPU-composited animations (`transform` and `opacity` only, zero layout thrash).
+- 🔌 **API Integration & Resilient Client Persistence (`RESTful APIs`, `Axios`, `localStorage`):** Integrating external REST endpoints with structured service clients, data normalization adapters, and atomic `localStorage` state hydration/sanitization across browser reloads.
+- 🛡️ **Professional Git Workflow, Supply-Chain Security & Deployment (`Git`, `GitHub`, `Vercel`):** Managing isolated feature branches (`feat/*`), structured Pull Requests, conventional commit histories, automated dependency/vulnerability scanning (`Dependabot`, `Push Protection`), and continuous deployments on `Vercel`.
 
 ---
 
